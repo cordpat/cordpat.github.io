@@ -89,7 +89,7 @@ function marquee () {
   margin-bottom: 7vh;
   position: relative;
   box-sizing: border-box;
-  background-color: yellow;
+  background-color: linear-gradient(90deg, rgba(127,122,203,1) 0%, rgba(145,140,191,1) 13%, rgba(255,251,115,1) 51%, rgba(137,133,196,1) 90%, rgba(127,122,203,1) 100%);;
   position: relative;
 }
 
